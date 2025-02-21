@@ -46,8 +46,6 @@ cask "font-jetbrains-mono-slashed" do
   font "No-Ligatures/JetBrainsMonoSlashedNL-SemiBoldItalic.otf"
   font "No-Ligatures/JetBrainsMonoSlashedNL-Thin.otf"
   font "No-Ligatures/JetBrainsMonoSlashedNL-ThinItalic.otf"
-  font "Variable/JetBrainsMonoSlashed-Italic[wght].otf"
-  font "Variable/JetBrainsMonoSlashed[wght].otf"
 
   # No zap stanza required
 end
